@@ -1,0 +1,110 @@
+import 'package:flutter/material.dart';
+import 'package:honeyvoices/constants/my_size.dart';
+
+class MyGap {
+  static const h1 = SizedBox(width: MySize.size1);
+  static const h2 = SizedBox(width: MySize.size2);
+  static const h3 = SizedBox(width: MySize.size3);
+  static const h4 = SizedBox(width: MySize.size4);
+  static const h5 = SizedBox(width: MySize.size5);
+  static const h6 = SizedBox(width: MySize.size6);
+  static const h7 = SizedBox(width: MySize.size7);
+  static const h8 = SizedBox(width: MySize.size8);
+  static const h9 = SizedBox(width: MySize.size9);
+  static const h10 = SizedBox(width: MySize.size10);
+  static const h11 = SizedBox(width: MySize.size11);
+  static const h12 = SizedBox(width: MySize.size12);
+  static const h13 = SizedBox(width: MySize.size13);
+  static const h14 = SizedBox(width: MySize.size14);
+  static const h15 = SizedBox(width: MySize.size15);
+  static const h16 = SizedBox(width: MySize.size16);
+  static const h17 = SizedBox(width: MySize.size17);
+  static const h18 = SizedBox(width: MySize.size18);
+  static const h19 = SizedBox(width: MySize.size19);
+  static const h20 = SizedBox(width: MySize.size20);
+  static const h21 = SizedBox(width: MySize.size21);
+  static const h22 = SizedBox(width: MySize.size22);
+  static const h23 = SizedBox(width: MySize.size23);
+  static const h24 = SizedBox(width: MySize.size24);
+  static const h25 = SizedBox(width: MySize.size25);
+  static const h26 = SizedBox(width: MySize.size26);
+  static const h27 = SizedBox(width: MySize.size27);
+  static const h28 = SizedBox(width: MySize.size28);
+  static const h29 = SizedBox(width: MySize.size29);
+  static const h30 = SizedBox(width: MySize.size30);
+  static const h31 = SizedBox(width: MySize.size31);
+  static const h32 = SizedBox(width: MySize.size32);
+  static const h33 = SizedBox(width: MySize.size33);
+  static const h34 = SizedBox(width: MySize.size34);
+  static const h35 = SizedBox(width: MySize.size35);
+  static const h36 = SizedBox(width: MySize.size36);
+  static const h37 = SizedBox(width: MySize.size37);
+  static const h38 = SizedBox(width: MySize.size38);
+  static const h39 = SizedBox(width: MySize.size39);
+  static const h40 = SizedBox(width: MySize.size40);
+  static const h41 = SizedBox(width: MySize.size41);
+  static const h42 = SizedBox(width: MySize.size42);
+  static const h43 = SizedBox(width: MySize.size43);
+  static const h44 = SizedBox(width: MySize.size44);
+  static const h45 = SizedBox(width: MySize.size45);
+  static const h46 = SizedBox(width: MySize.size46);
+  static const h47 = SizedBox(width: MySize.size47);
+  static const h48 = SizedBox(width: MySize.size48);
+
+  static getHorizontalGap(int number) {
+    return SizedBox(width: MySize.get(number));
+  }
+
+  static const v1 = SizedBox(height: MySize.size1);
+  static const v2 = SizedBox(height: MySize.size2);
+  static const v3 = SizedBox(height: MySize.size3);
+  static const v4 = SizedBox(height: MySize.size4);
+  static const v5 = SizedBox(height: MySize.size5);
+  static const v6 = SizedBox(height: MySize.size6);
+  static const v7 = SizedBox(height: MySize.size7);
+  static const v8 = SizedBox(height: MySize.size8);
+  static const v9 = SizedBox(height: MySize.size9);
+  static const v10 = SizedBox(height: MySize.size10);
+  static const v11 = SizedBox(height: MySize.size11);
+  static const v12 = SizedBox(height: MySize.size12);
+  static const v13 = SizedBox(height: MySize.size13);
+  static const v14 = SizedBox(height: MySize.size14);
+  static const v15 = SizedBox(height: MySize.size15);
+  static const v16 = SizedBox(height: MySize.size16);
+  static const v17 = SizedBox(height: MySize.size17);
+  static const v18 = SizedBox(height: MySize.size18);
+  static const v19 = SizedBox(height: MySize.size19);
+  static const v20 = SizedBox(height: MySize.size20);
+  static const v21 = SizedBox(height: MySize.size21);
+  static const v22 = SizedBox(height: MySize.size22);
+  static const v23 = SizedBox(height: MySize.size23);
+  static const v24 = SizedBox(height: MySize.size24);
+  static const v25 = SizedBox(height: MySize.size25);
+  static const v26 = SizedBox(height: MySize.size26);
+  static const v27 = SizedBox(height: MySize.size27);
+  static const v28 = SizedBox(height: MySize.size28);
+  static const v29 = SizedBox(height: MySize.size29);
+  static const v30 = SizedBox(height: MySize.size30);
+  static const v31 = SizedBox(height: MySize.size31);
+  static const v32 = SizedBox(height: MySize.size32);
+  static const v33 = SizedBox(height: MySize.size33);
+  static const v34 = SizedBox(height: MySize.size34);
+  static const v35 = SizedBox(height: MySize.size35);
+  static const v36 = SizedBox(height: MySize.size36);
+  static const v37 = SizedBox(height: MySize.size37);
+  static const v38 = SizedBox(height: MySize.size38);
+  static const v39 = SizedBox(height: MySize.size39);
+  static const v40 = SizedBox(height: MySize.size40);
+  static const v41 = SizedBox(height: MySize.size41);
+  static const v42 = SizedBox(height: MySize.size42);
+  static const v43 = SizedBox(height: MySize.size43);
+  static const v44 = SizedBox(height: MySize.size44);
+  static const v45 = SizedBox(height: MySize.size45);
+  static const v46 = SizedBox(height: MySize.size46);
+  static const v47 = SizedBox(height: MySize.size47);
+  static const v48 = SizedBox(height: MySize.size48);
+
+  static getVerticalGap(int number) {
+    return SizedBox(height: MySize.get(number));
+  }
+}
